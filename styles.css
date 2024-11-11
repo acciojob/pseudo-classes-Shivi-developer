@@ -7,10 +7,10 @@ p:first-child{
 	color: white;
 }
 p:nth-child(2){
-	color: blue;
+	color: black;
 }
 p:last-child{
-	color: red
+	color: red;
 }
 li{
 	width: 50%;
