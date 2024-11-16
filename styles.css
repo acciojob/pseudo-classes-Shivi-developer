@@ -3,18 +3,21 @@
 :root{
 	background-color: rgb(135, 206, 235)
 }
+p{
+	font-family: "Inter", sans-serif;
+}
 p:first-child{
 	background-color: black;
 	color: white;
-	font-family: "Inter", sans-serif;
+	
 }
 p:nth-child(2){
 	color:black;
-	font-family: "Inter", sans-serif;
+	
 }
 p:last-child{
 	color:Red;
-	font-family: "Inter", sans-serif;
+	
 }
 li{
 	width: 50%;
