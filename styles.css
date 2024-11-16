@@ -17,11 +17,12 @@ li{
 	padding: 10px;
 	background-color: gray;
 }
-li:first-child{
+li:nth-child(1){
 	font-size: 22px;
 	background-color: white;
 }
-li:last-child{
+
+li:nth-child(5){
 	font-size: 22px;
 	background-color: white;
 }
