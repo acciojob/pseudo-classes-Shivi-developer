@@ -3,7 +3,7 @@
 :root{
 	background-color: rgb(135, 206, 235)
 }
-p{
+.a{
 	font-family: "Inter", sans-serif;
 }
 p:first-child{
